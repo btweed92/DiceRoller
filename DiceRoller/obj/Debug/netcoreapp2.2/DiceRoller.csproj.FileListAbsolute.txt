@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\bin\Debug\netcoreapp2.2\DiceRoller.deps.json
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\bin\Debug\netcoreapp2.2\DiceRoller.runtimeconfig.json
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\bin\Debug\netcoreapp2.2\DiceRoller.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\bin\Debug\netcoreapp2.2\DiceRoller.dll
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\bin\Debug\netcoreapp2.2\DiceRoller.pdb
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\obj\Debug\netcoreapp2.2\DiceRoller.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\obj\Debug\netcoreapp2.2\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\obj\Debug\netcoreapp2.2\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\obj\Debug\netcoreapp2.2\DiceRoller.AssemblyInfo.cs
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\obj\Debug\netcoreapp2.2\DiceRoller.dll
+C:\Users\tweed\source\repos\DiceRoller\DiceRoller\obj\Debug\netcoreapp2.2\DiceRoller.pdb
